@@ -1,0 +1,2 @@
+- nama: Siapkan .NET Core SDK
+  menggunakan: tindakan/setup-dotnet@v3.2.0
